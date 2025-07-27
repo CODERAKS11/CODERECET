@@ -1,7 +1,4 @@
 'use server';
-process.env.GEMINI_API_KEY = "AIzaSyBvkuUz2gxJrm6sYepaN6DsY1chulIwsTk";
-
-
 import { analyzeSentiment } from '@/ai/flows/analyze-sentiment';
 import { derivePersonalityInsights } from '@/ai/flows/derive-personality-insights';
 import { inferQualities } from '@/ai/flows/infer-qualities';
