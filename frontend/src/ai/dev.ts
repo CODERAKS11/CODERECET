@@ -1,6 +1,5 @@
 import { config } from 'dotenv';
 config();
-process.env.GEMINI_API_KEY = "AIzaSyBvkuUz2gxJrm6sYepaN6DsY1chulIwsTk";
 'use server';
 
 
