@@ -64,6 +64,6 @@ Final(Add photo of final product here) Explain the final build
 [Add any extra demo materials/links]
 
 ## Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+[Name 1]: [Saurav kumar]
+[Name 2]: [Divyanshu Raj]
+[Name 3]: [Paras Mani]
