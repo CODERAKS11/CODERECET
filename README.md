@@ -1,4 +1,4 @@
-# CODERECET
+# CODEreCET
 
 ## Project Repository
 *Commit and save your changes here*
