@@ -1,8 +1,8 @@
 # 🤖 BERT Emotion Classifier
 
-A fine-tuned `bert-base-uncased` model for emotion classification using Hugging Face Transformers. Given a sentence, this model predicts the corresponding emotion class. Trained on a balanced dataset with high accuracy.
+A fine-tuned `bert-based` model for emotion classification using Hugging Face Transformers. Given a sentence, this model predicts the corresponding emotion class. Trained on a balanced dataset with high accuracy.
 
-![Emotion NLP](https://raw.githubusercontent.com/amcharts/amcharts4/master/dist/images/emotion-wordcloud.png)
+Model available on : (https://drive.google.com/drive/folders/1WqV6L1TOT-KjSPbALRqpCWKfc505Ks2B)
 
 ---
 
@@ -46,7 +46,7 @@ Please update this section based on your actual label mapping.
 
 ## 🏗️ Model Architecture
 
-- **Model:** `bert-base-uncased`
+- **Model:** `bert-based-emotion-model`
 - **Type:** Sequence classification (`BertForSequenceClassification`)
 - **Tokenizer:** `BertTokenizer`
 - **Loss Function:** CrossEntropy (handled internally)
